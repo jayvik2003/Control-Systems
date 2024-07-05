@@ -44,14 +44,14 @@ Below is an overview of the key topics and sections included.
    - Signal-Flow Graphs
    - Signal-Flow Graphs of State Equations
 
-8. **Stability**
+7. **Stability**
 
    - Routh-Hurwitz Criterion
    - Routh-Hurwitz Criterion: Special Cases
    - Routh-Hurwitz Criterion: Additional Examples
    - Stability in State Space
 
-10. **Steady-State Errors**
+8. **Steady-State Errors**
    
    - Steady-State Error for Unity Feedback Systems
    - Static Error Constants and System Type
@@ -61,7 +61,7 @@ Below is an overview of the key topics and sections included.
    - Sensitivity
    - Steady-State Error for Systems in State Space
 
-11. **Root Locus Techniques**
+9. **Root Locus Techniques**
    
    - Defining the Root Locus
    - Properties of the Root Locus
